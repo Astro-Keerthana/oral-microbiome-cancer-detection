@@ -1,0 +1,12 @@
+streamlit==1.32.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1
+matplotlib==3.8.3
+seaborn==0.13.2
+plotly==5.20.0
+scipy==1.12.0
+requests==2.31.0
+biopython==1.83
+fpdf2==2.7.9
+scikit-bio==0.6.0
