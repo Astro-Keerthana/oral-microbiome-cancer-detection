@@ -13,7 +13,7 @@ Real-data OSCC oral microbiome analysis platform using public NCBI SRA datasets.
 
 ## 🚀 Run Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/OralBiomarker-Explorer
+git clone https://github.com/astro-keerthana/oral-microbiome-cancer-detection
 cd OralBiomarker-Explorer
 pip install -r requirements.txt
 streamlit run app.py
